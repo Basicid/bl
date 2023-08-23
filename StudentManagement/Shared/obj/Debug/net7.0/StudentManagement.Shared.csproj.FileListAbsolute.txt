@@ -1,0 +1,12 @@
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\bin\Debug\net7.0\StudentManagement.Shared.deps.json
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\bin\Debug\net7.0\StudentManagement.Shared.dll
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\bin\Debug\net7.0\StudentManagement.Shared.pdb
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.csproj.AssemblyReference.cache
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.AssemblyInfoInputs.cache
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.AssemblyInfo.cs
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.dll
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\refint\StudentManagement.Shared.dll
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\StudentManagement.Shared.pdb
+E:\Blazor\xm\StudentManagementSLN\StudentManagement\Shared\obj\Debug\net7.0\ref\StudentManagement.Shared.dll
